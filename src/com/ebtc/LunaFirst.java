@@ -8,8 +8,6 @@ public class LunaFirst {
 		System.out.println("Local Master Go");
 
 		System.out.println("Master Remote Edit Here");
-
-		System.out.println("Edited Here Go Patch");
 		
 		int k = 0;
 
