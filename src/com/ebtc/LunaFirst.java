@@ -12,4 +12,8 @@ public class LunaFirst {
 		int k = 0;
 
 	}
+	 
+	public void sharedMethod(){
+		System.out.println(" Luna made change ");
+	}
 }
