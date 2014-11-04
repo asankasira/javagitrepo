@@ -11,4 +11,6 @@ public class BaseAction {
 	public void excecute() {
 
 	}
+	
+	//get User Profile Implementation
 }
