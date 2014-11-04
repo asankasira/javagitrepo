@@ -20,5 +20,6 @@ public class LunaFirst {
 
 	public void testM(){
 		System.out.println("GitHub test");
+		System.out.println("Luna test");
 	}
 }
