@@ -1,6 +1,6 @@
 package com.ebtc;
 
-public class BaseAction {
+public abstract class BaseAction {
 
 	// Instance variables declaration
 	// Generic method1 for base action
@@ -11,4 +11,6 @@ public class BaseAction {
 	public void excecute() {
 
 	}
+	
+	public void makeAction();
 }
