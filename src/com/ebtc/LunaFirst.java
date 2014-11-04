@@ -16,6 +16,9 @@ public class LunaFirst {
 	public void sharedMethod(){
 	    System.out.println(" GitHub made this. ");
 		System.out.println(" Luna made change ");
-    }
+        }
 
+	public void testM(){
+		System.out.println("GitHub test");
+	}
 }
