@@ -16,4 +16,5 @@ public abstract class BaseAction {
 
    //get User Profile Implementation
 	public abstract void makeAction();
+	//call abstract method in subClass
 }
