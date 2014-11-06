@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-	<github>2.0.0</github>
+	<github>2.0.1</github>
 	<supplychain>2.0.0</supplychain>
 	<fullfillment>2.0.0</fullfillment>
 	<sla>2.0.0</sla>
