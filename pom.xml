@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
 	<github>2.0.0</github>
+	<supplychain>2.0.0</supplychain>
+	<fullfillment>2.0.0</fullfillment>
+	<notification>1.5.1</notification>
 </document>
