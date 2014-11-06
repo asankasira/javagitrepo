@@ -7,4 +7,5 @@ public class BranchClass {
 	//GitHub Edited
 	//Luna comment 1
 	//GitHub comment 1
+	//Luna comment 2
 }
