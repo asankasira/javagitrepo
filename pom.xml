@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
 	<github>2.0.1</github>
-	<supplychain>SNAPSHOT</supplychain>
-	<fullfillment>SNAPSHOT</fullfillment>
-	<sla>SNAPSHOT</sla>
+	<supplychain>2.0.0</supplychain>
+	<fullfillment>2.0.0</fullfillment>
+	<sla>2.0.0</sla>
 	<notification>1.5.1</notification>
 </document>
